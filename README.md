@@ -2,7 +2,7 @@
   <img src="./meu.gif" width="700">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=My+eyelied+are+getting+heavy+.+.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=My+eyelids+are+getting+heavy..">
 </p>
 <!--
 **nomudae/nomudae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
