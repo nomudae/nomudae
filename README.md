@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://open.spotify.com/track/36hdlSVLCWmcCxGYnBszd8">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f2dd4517a713d73c0f7c35ff" width="260">
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/00/MassiveAttackMezzanine.jpg" width="260">
   </a>
 </p>
 
