@@ -18,3 +18,6 @@
 <p align="center">
    Music
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=mystic+deity;born+from+the+silence+of+stars;agent+006">
+</p>
