@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./meu.gif" width="700">
+  <img src="./sic.gif" width="700">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=24&pause=1000&color=B0B0B0&center=true&vCenter=true&width=700&lines=my+eyelids+are+getting+heavy..">
