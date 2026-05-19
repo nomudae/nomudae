@@ -23,8 +23,5 @@
 <p align="center">
    Music
 </p>
-<p align="center">
-  <a href="https://github.com/nomudae/clocked">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nomudae&repo=clocked&bg_color=22272e&title_color=D1D5DB&text_color=9CA3AF&icon_color=6B7280&border_color=22272e&hide_border=true">
-  </a>
-</p>
+
+ 
