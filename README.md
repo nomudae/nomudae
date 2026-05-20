@@ -10,7 +10,7 @@
   <img src="./f.gif" width="700">
 </p>
 <p align="center">
-  <img src="./c.webp" width="600">
+  <img src="./c.webp" width="500">
 </p>
 <p align="center">
   <a href="https://music.apple.com/us/album/angel/724466069?i=724466189">
@@ -26,7 +26,5 @@
 <p align="center">
    Music
 </p>
-<p align="center">
-  <img src="./a.webp" width="700">
-</p>
+
  
