@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./n.gif" width="200">
-</p><p align="center">
+</p>
+<p align="center">
   <a href="https://nomudae.atabook.org/">
     <img src="https://img.shields.io/badge/Atabook-22272e?style=for-the-badge&logo=ghost&logoColor=D1D5DB">
   </a>
