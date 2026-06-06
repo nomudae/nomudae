@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./f9201bf831a2992b0417dfb6110b41a5.gif" width="200">
+  <img src="./f9201bf831a2992b0417dfb6110b41a5.gif" width="250">
 </p>
 <p align="center">
   <a href="https://nomudae.atabook.org/">
@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <a href="https://music.apple.com/us/album/angel/724466069?i=724466189">
-    <img src="./angel.jpg" width="220">
+    <img src="./angel.jpg" width="180">
   </a>
 </p>
 <p align="center">
