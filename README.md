@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./ab280ccc067a0fe7d4309ce7bdd199fa.gif" width="250">
 </p>
-[ata](https://nomudae.atabook.org/) - [prns](https://pronouns.cc/@nomudae)
 <p align="center">
   <a href="https://music.apple.com/us/album/angel/724466069?i=724466189">
     <img src="./angel.jpg" width="100">
