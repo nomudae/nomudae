@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./f9201bf831a2992b0417dfb6110b41a5.gif" width="250">
+  <img src="./4339d1a2574c9f029f881bfb3ab65067.gif" width="300">
 </p>
 <p align="center">
   <a href="https://nomudae.atabook.org/">
