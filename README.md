@@ -3,10 +3,10 @@
 </p>
 <p align="center">
   <a href="https://nomudae.atabook.org/">
-    <img src="https://img.shields.io/badge/ata-22272e?style=for-the-badge&logo=ghost&logoColor=D1D5DB">
+    <img src="https://img.shields.io/badge/ata-22272e?style=for-the-badge&logo=ghost&logoColor=000000">
   </a>
   <a href="https://pronouns.cc/@nomudae">
-    <img src="https://img.shields.io/badge/prns-22272e?style=for-the-badge&logoColor=D1D5DB">
+    <img src="https://img.shields.io/badge/prns-22272e?style=for-the-badge&logoColor=000000">
   </a>
 </p>
 <p align="center">
