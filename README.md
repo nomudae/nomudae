@@ -6,18 +6,11 @@
     <img src="./angel.jpg" width="100">
   </a>
 </p>
-
-<div align="center">
-
-<a href="https://pronouns.cc/@nomudae">
-  <img src="https://img.shields.io/badge/prns-ffb7d5?style=for-the-badge">
-</a>
-
-<a href="https://github.com/nomudae">
-  <img src="https://img.shields.io/badge/ata-c7ceea?style=for-the-badge">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://pronouns.cc/@nomudae">prns</a>
+  &nbsp;  &nbsp;
+  <a href="https://github.com/nomudae">ata</a>
+</p>
 <p align="center">
   <b>Angel</b><br>
   Massive Attack
