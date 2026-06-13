@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <a href="https://music.apple.com/us/album/angel/724466069?i=724466189">
-    <img src="./angel.jpg" width="180">
+    <img src="./angel.jpg" width="100">
   </a>
 </p>
 <p align="center">
