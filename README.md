@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ab280ccc067a0fe7d4309ce7bdd199fa.gif" width="300">
+  <img src="./ab280ccc067a0fe7d4309ce7bdd199fa.gif" width="400">
 </p>
 <p align="center">
   <a href="https://pronouns.cc/@nomudae">prns</a>
