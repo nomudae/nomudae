@@ -2,9 +2,7 @@
   <img src="./6dc0f7984e5ec55c697241b20cc328b2.gif" width="300">
 </p>
 <p align="center">
-  <a href="https://pronouns.cc/@nomudae">prns</a>
-  &nbsp;  &nbsp;
-  <a href="https://nomudae.atabook.org/">ata</a>
+  <a ref="https://nomudae.atabook.org/">ata</a>
 </p>
 <p align="center">
   <a href="https://music.apple.com/us/album/angel/724466069?i=724466189">
