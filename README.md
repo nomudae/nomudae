@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://nomudae.atabook.org/">ata</a>
-</p>a>
+</p>
 <p align="center">
   <a href="https://music.apple.com/us/album/angel/724466069?i=724466189">
     <img src="./angel.jpg" width="100">
