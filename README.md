@@ -1,13 +1,9 @@
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img src="./z.webp" width="250">
-    </td>
-    <td align="right">
-      <img src="./v.webp" width="250">
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img src="./assets/z.webp" width="250">
+</div>
+<div align="right">
+  <img src="./assets/v.webp" width="250">
+</div>
 <p align="center">
   <a href="https://nomudae.atabook.org/">
     <img src="./h.webp">
