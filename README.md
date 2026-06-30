@@ -6,6 +6,6 @@
 </div>
 <p align="center">
   <a href="https://nomudae.atabook.org/">
-    <img src="./h.webp">
+    <img src="./assets/h.webp">
   </a>
 </p>
