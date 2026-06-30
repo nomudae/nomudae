@@ -1,8 +1,8 @@
 <div align="left">
-  <img src="./assets/z.webp" width="250">
+  <img src="./z.webp" width="250">
 </div>
 <div align="right">
-  <img src="./assets/v.webp" width="250">
+  <img src="./v.webp" width="250">
 </div>
 <p align="center">
   <a href="https://nomudae.atabook.org/">
