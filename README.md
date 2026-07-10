@@ -10,7 +10,7 @@
   <img src="cv.gif" width="200">
 </p>
 <p align="center">
-  <img src="nomy.webp" width="600">
+  <img src="nomy.webp" width="700">
 </p>
 <p align="center">
   <img src="m.webp" width="200">
