@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="xx.webp" width="300">
+  <img src="xx.webp" width="100">
 </p>
 <p align="center">
   <a href="https://nomudae.atabook.org/">
