@@ -13,5 +13,5 @@
   <img src="nomy.webp" width="700">
 </p>
 <p align="center">
-  <img src="m.webp" width="200">
+  <img src="m.webp" width="100">
 </p>
