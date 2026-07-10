@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="ctfu.webp" width="300">
+  <a href="https://nomudae.atabook.org/">
+    <img src="./ctfu.webp">
+  </a>
 </p>
 <p align="center">
-  <a href="https://nomudae.atabook.org/">
-    <img src="./nomy.webp">
-  </a>
+  <img src="nomy.webp" width="600">
 </p>
