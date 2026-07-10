@@ -7,11 +7,11 @@
   </a>
 </p>
 <p align="center">
-  <img src="cv.gif" width="300">
+  <img src="cv.gif" width="200">
 </p>
 <p align="center">
   <img src="nomy.webp" width="600">
 </p>
 <p align="center">
-  <img src="m.webp" width="100">
+  <img src="m.webp" width="200">
 </p>
