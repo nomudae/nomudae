@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nomudae.atabook.org/">
-    <img src="./ctfu.webp">
+    <img src="./ctfu.webp" width="600">
   </a>
 </p>
 <p align="center">
